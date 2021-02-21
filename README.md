@@ -1,10 +1,10 @@
-# Vue-Router-Techno-Curso
+# Project Conceptual - Vue Router
 
-*Start VUE* (Vue-Router-Techno-Curso/techo-cursos)
+**VUE** (Vue-Router-Techno-Curso/techo-cursos)
 
-npm i
-npm run serve
+  - npm i
+  - npm run serve
 
-*Start API* (Vue-Router-Techno-Curso/api)
+**Start API** (Vue-Router-Techno-Curso/api)
 
-json-server --watch api.json
+  - json-server --watch api.json
